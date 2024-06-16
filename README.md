@@ -1,4 +1,4 @@
-# EDA-of-Boston-Housing-Price-Prediction-Dataset
+# Boston-Housing-Price-Prediction-Dataset
 
 Project name: House Price Prediction
 
