@@ -2,7 +2,22 @@
 
 Project name: House Price Prediction
 
-Goal: To find the price of home by using its multiple features
+The problem that we are going to solve here is that given a set of features that describe a house in Boston, our machine learning model must predict the house price. To train our machine learning model with boston housing data, we will be using scikit-learn’s boston dataset.
 
-Tool: This project done by Python programming and its multiple libraries.
+Table of Contents
 
+Boston house price prediction
+
+
+Linear regression
+
+
+Random Forest Regressor
+
+
+XGBoost Regressor
+
+
+SVM Regressor
+
+Evaluation and comparision of all the models
